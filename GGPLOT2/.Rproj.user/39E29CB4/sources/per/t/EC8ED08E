@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574685684585.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2199517479",
+    "id" : "EC8ED08E",
+    "lastKnownWriteTime" : 1574923595,
+    "last_content_update" : 1574923595,
+    "path" : "C:/IDEA/WORKSHOPS/BASICS/GGPLOT2/GGPLOT2_DEMONSTRATION.R",
+    "project_path" : "GGPLOT2_DEMONSTRATION.R",
+    "properties" : {
+        "cursorPosition" : "244,0",
+        "scrollLine" : "226",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

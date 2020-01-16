@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574763158958.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3214571512",
+    "id" : "F581CD88",
+    "lastKnownWriteTime" : 1561624690,
+    "last_content_update" : 1561624690,
+    "path" : "D:/GSODI_V3/country_trend_loops/country_trend_loops.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

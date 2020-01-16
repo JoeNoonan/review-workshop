@@ -191,6 +191,23 @@ gsodi_dem_patterns <- read_csv("gsodi_dem_patterns.csv")
 # Find the names of all the variables, the number of observations (rows), and columns
 
 
+### Warm up 
+### Find the percentage of African Countries (ID_region_name) by regime type (dem) in 2018 
+
+filter(gsodi_dem_patterns, ID_region_name == "Africa", ID_year == 2018) %>% # Filter out critera
+  tabyl(var1= dem, show_missing_levels = FALSE)
+
+### Find the percentage of Non-Democracies with 5/5 low attributes. 
+
+filter(gsodi_dem_patterns, ID_year == 2018)  %>% # Filter out critera
+  tabyl(var1 = low_atrbs , var2 =dem , show_missing_levels = FALSE) %>% 
+  adorn_totals(c("row", "col")) %>% # adds total column to the rows and collumns
+  adorn_percentages("col") %>% # adds percentages for the columns 
+  adorn_pct_formatting() %>% # adds percentage formating
+  adorn_ns() # adds ns 
+
+
+
 
 # ASSIGNMENT: Which countries scored high on all five attributes in 1975?
 # Use variable high_atrbs. Explore the variable to understand how it works. 
@@ -399,17 +416,7 @@ ggplot(ap_abs_corrp_1990_2018,
   geom_line(size = 3) +
   theme_minimal()
 
-# Which regions have seen most declines in the 
-# individual dimensions of civic space? Bar graph and table
-
-
-
-
 # Which region of the world has improved the most on Gender Equality since 1975?
-
-
-
-
 
 # First make regional values data set with the following variables:
 # ID_year, ID_variable_name, ID_region_name, region_value, region_lower_value, region_upper_value
@@ -433,14 +440,43 @@ filter(regional_value_1975_2018_df,
 
 
 # How would we do this if we were looking at just countries? 
-
+# HINT: look at the variables in gsodi_long.
 
 
 
 # Which regions have seen most declines in the 
 # individual dimensions of civic space? Bar graph and table
+# Filter relevant variables, group_by and summarize 
+
+sig_declines_5_years_civic_space_2018 <- filter(gsodi_long, ID_variable_name %in% c("Civil Society Participation", "Media Integrity","Civil Liberties")) %>% 
+  group_by(ID_region_name, ID_variable_name, ID_year) %>% 
+  summarize(num_countries_neg_sig_5_years = sum(neg_sig_5_years)) %>% 
+  filter(ID_year == 2018)
+
+### Making a bar plot 
+
+ggplot(data=sig_declines_5_years_civic_space_2018, 
+       aes(x=ID_region_name, 
+           y=num_countries_neg_sig_5_years,
+           fill = ID_variable_name)) +
+  geom_bar(stat="identity", position=position_dodge()) +
+  theme_minimal()
 
 
 # How many countries have more than 30% of female legislators, 
 # in % of the total number of countries per region?
 
+### Example of technique 
+### Need to create a flag where 1 = statement is true
+### As a placeholder lets use Electoral Participation 
+
+elect_part_df <- filter(gsodi_long, ID_variable_name == "Electoral Participation") %>% 
+  mutate(elect_per_50 = ifelse(value > .50, 1, 0)) # ifelse() returns a value if a condition is met. In this case if value is over .50 then 1 for everything else 0.
+
+### How would you take this and summarize it by region? 
+
+elect_part_df %>% 
+  group_by(ID_year, ID_region_name) %>%
+  summarize(sum(elect_per_50, na.rm = TRUE))
+
+### Use regional count table to pull in number of countries. 

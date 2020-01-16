@@ -1,0 +1,159 @@
+ID_region,ID_subregion,ID_region_case_code,ID_subregion_case_code,ID_region_name,ID_subregion_name,ID_country_code,ID_country_name
+4,12,994,982,Asia and the Pacific,South Asia,700,Afghanistan
+6,16,996,986,Europe,East-Central Europe,339,Albania
+1,5,991,975,Africa,North Africa,615,Algeria
+1,3,991,973,Africa,Southern Africa,540,Angola
+2,8,992,978,Latin America and the Caribbean,South America,160,Argentina
+6,17,996,987,Europe,Eastern Europe/post-Soviet Europe,371,Armenia
+4,14,994,984,Asia and the Pacific,Oceania,900,Australia
+6,18,996,988,Europe,North WestEurope,305,Austria
+6,17,996,987,Europe,Eastern Europe/post-Soviet Europe,373,Azerbaijan
+5,15,985,985,Middle East and Iran,Middle East and Iran,692,Bahrain
+4,12,994,982,Asia and the Pacific,South Asia,771,Bangladesh
+6,17,996,987,Europe,Eastern Europe/post-Soviet Europe,370,Belarus
+6,18,996,988,Europe,North WestEurope,211,Belgium
+1,4,991,974,Africa,West Africa,434,Benin
+2,8,992,978,Latin America and the Caribbean,South America,145,Bolivia
+6,16,996,986,Europe,East-Central Europe,346,Bosnia and Herzegovina
+1,3,991,973,Africa,Southern Africa,571,Botswana
+2,8,992,978,Latin America and the Caribbean,South America,140,Brazil
+6,16,996,986,Europe,East-Central Europe,355,Bulgaria
+1,4,991,974,Africa,West Africa,439,Burkina Faso
+1,1,991,971,Africa,East Africa,516,Burundi
+4,13,994,983,Asia and the Pacific,South-East Asia,811,Cambodia
+1,2,991,972,Africa,Central Africa,471,Cameroon
+3,9,979,979,North America,North America,20,Canada
+1,2,991,972,Africa,Central Africa,482,Central African Republic
+1,2,991,972,Africa,Central Africa,483,Chad
+2,8,992,978,Latin America and the Caribbean,South America,155,Chile
+4,11,994,981,Asia and the Pacific,East Asia,710,China
+2,8,992,978,Latin America and the Caribbean,South America,100,Colombia
+2,7,992,977,Latin America and the Caribbean,Central America and Mexico,94,Costa Rica
+1,4,991,974,Africa,West Africa,437,Cote d'Ivoire
+6,16,996,986,Europe,East-Central Europe,344,Croatia
+2,6,992,976,Latin America and the Caribbean,Caribbean,40,Cuba
+6,19,996,989,Europe,South Europe,352,Cyprus
+6,16,996,986,Europe,East-Central Europe,316,Czechia
+4,11,994,981,Asia and the Pacific,East Asia,731,Democratic People's Republic of Korea
+1,2,991,972,Africa,Central Africa,490,Democratic Republic of the Congo (DRC)
+6,18,996,988,Europe,North WestEurope,390,Denmark
+2,6,992,976,Latin America and the Caribbean,Caribbean,42,Dominican Republic
+2,8,992,978,Latin America and the Caribbean,South America,130,Ecuador
+1,5,991,975,Africa,North Africa,651,Egypt
+2,7,992,977,Latin America and the Caribbean,Central America and Mexico,92,El Salvador
+1,2,991,972,Africa,Central Africa,411,Equatorial Guinea
+1,1,991,971,Africa,East Africa,531,Eritrea
+6,16,996,986,Europe,East-Central Europe,366,Estonia
+1,3,991,973,Africa,Southern Africa,572,Eswatini
+1,1,991,971,Africa,East Africa,530,Ethiopia
+6,18,996,988,Europe,North WestEurope,375,Finland
+6,18,996,988,Europe,North WestEurope,220,France
+1,2,991,972,Africa,Central Africa,481,Gabon
+1,4,991,974,Africa,West Africa,420,Gambia
+6,17,996,987,Europe,Eastern Europe/post-Soviet Europe,372,Georgia
+6,16,996,986,Europe,East-Central Europe,265,German Democratic Republic
+6,18,996,988,Europe,North WestEurope,255,Germany
+1,4,991,974,Africa,West Africa,452,Ghana
+6,19,996,989,Europe,South Europe,350,Greece
+2,7,992,977,Latin America and the Caribbean,Central America and Mexico,90,Guatemala
+1,4,991,974,Africa,West Africa,438,Guinea
+1,4,991,974,Africa,West Africa,404,Guinea-Bissau
+2,6,992,976,Latin America and the Caribbean,Caribbean,41,Haiti
+2,7,992,977,Latin America and the Caribbean,Central America and Mexico,91,Honduras
+6,16,996,986,Europe,East-Central Europe,310,Hungary
+4,12,994,982,Asia and the Pacific,South Asia,750,India
+4,13,994,983,Asia and the Pacific,South-East Asia,850,Indonesia
+5,15,985,985,Middle East and Iran,Middle East and Iran,630,Iran
+5,15,985,985,Middle East and Iran,Middle East and Iran,645,Iraq
+6,18,996,988,Europe,North WestEurope,205,Ireland
+6,19,996,989,Europe,South Europe,666,Israel
+6,19,996,989,Europe,South Europe,325,Italy
+2,6,992,976,Latin America and the Caribbean,Caribbean,51,Jamaica
+4,11,994,981,Asia and the Pacific,East Asia,740,Japan
+5,15,985,985,Middle East and Iran,Middle East and Iran,663,Jordan
+4,10,994,980,Asia and the Pacific,Central Asia,705,Kazakhstan
+1,1,991,971,Africa,East Africa,501,Kenya
+6,16,996,986,Europe,East-Central Europe,347,Kosovo
+5,15,985,985,Middle East and Iran,Middle East and Iran,690,Kuwait
+4,10,994,980,Asia and the Pacific,Central Asia,703,Kyrgyzstan
+4,13,994,983,Asia and the Pacific,South-East Asia,812,Laos
+6,16,996,986,Europe,East-Central Europe,367,Latvia
+5,15,985,985,Middle East and Iran,Middle East and Iran,660,Lebanon
+1,3,991,973,Africa,Southern Africa,570,Lesotho
+1,4,991,974,Africa,West Africa,450,Liberia
+1,5,991,975,Africa,North Africa,620,Libya
+6,16,996,986,Europe,East-Central Europe,368,Lithuania
+1,3,991,973,Africa,Southern Africa,580,Madagascar
+1,3,991,973,Africa,Southern Africa,553,Malawi
+4,13,994,983,Asia and the Pacific,South-East Asia,820,Malaysia
+1,4,991,974,Africa,West Africa,432,Mali
+1,4,991,974,Africa,West Africa,435,Mauritania
+1,3,991,973,Africa,Southern Africa,590,Mauritius
+2,7,992,977,Latin America and the Caribbean,Central America and Mexico,70,Mexico
+6,17,996,987,Europe,Eastern Europe/post-Soviet Europe,359,Moldova
+4,11,994,981,Asia and the Pacific,East Asia,712,Mongolia
+1,5,991,975,Africa,North Africa,600,Morocco
+1,3,991,973,Africa,Southern Africa,541,Mozambique
+4,13,994,983,Asia and the Pacific,South-East Asia,775,Myanmar
+1,3,991,973,Africa,Southern Africa,565,Namibia
+4,12,994,982,Asia and the Pacific,South Asia,790,Nepal
+6,18,996,988,Europe,North WestEurope,210,Netherlands
+4,14,994,984,Asia and the Pacific,Oceania,920,New Zealand
+2,7,992,977,Latin America and the Caribbean,Central America and Mexico,93,Nicaragua
+1,4,991,974,Africa,West Africa,436,Niger
+1,4,991,974,Africa,West Africa,475,Nigeria
+6,16,996,986,Europe,East-Central Europe,343,North Macedonia
+6,18,996,988,Europe,North WestEurope,385,Norway
+5,15,985,985,Middle East and Iran,Middle East and Iran,698,Oman
+4,12,994,982,Asia and the Pacific,South Asia,770,Pakistan
+2,7,992,977,Latin America and the Caribbean,Central America and Mexico,95,Panama
+4,14,994,984,Asia and the Pacific,Oceania,910,Papua New Guinea
+2,8,992,978,Latin America and the Caribbean,South America,150,Paraguay
+2,8,992,978,Latin America and the Caribbean,South America,135,Peru
+4,13,994,983,Asia and the Pacific,South-East Asia,840,Philippines
+6,16,996,986,Europe,East-Central Europe,290,Poland
+6,19,996,989,Europe,South Europe,235,Portugal
+5,15,985,985,Middle East and Iran,Middle East and Iran,694,Qatar
+1,2,991,972,Africa,Central Africa,484,Republic of Congo
+4,11,994,981,Asia and the Pacific,East Asia,732,Republic of Korea
+6,16,996,986,Europe,East-Central Europe,360,Romania
+6,17,996,987,Europe,Eastern Europe/post-Soviet Europe,365,Russia
+1,1,991,971,Africa,East Africa,517,Rwanda
+5,15,985,985,Middle East and Iran,Middle East and Iran,670,Saudi Arabia
+1,4,991,974,Africa,West Africa,433,Senegal
+6,16,996,986,Europe,East-Central Europe,345,Serbia
+1,4,991,974,Africa,West Africa,451,Sierra Leone
+4,13,994,983,Asia and the Pacific,South-East Asia,830,Singapore
+6,16,996,986,Europe,East-Central Europe,317,Slovakia
+6,16,996,986,Europe,East-Central Europe,349,Slovenia
+1,1,991,971,Africa,East Africa,520,Somalia
+1,3,991,973,Africa,Southern Africa,560,South Africa
+1,5,991,975,Africa,North Africa,626,South Sudan
+6,19,996,989,Europe,South Europe,230,Spain
+4,12,994,982,Asia and the Pacific,South Asia,780,Sri Lanka
+1,5,991,975,Africa,North Africa,625,Sudan
+6,18,996,988,Europe,North WestEurope,380,Sweden
+6,18,996,988,Europe,North WestEurope,225,Switzerland
+5,15,985,985,Middle East and Iran,Middle East and Iran,652,Syria
+4,11,994,981,Asia and the Pacific,East Asia,713,Taiwan
+4,10,994,980,Asia and the Pacific,Central Asia,702,Tajikistan
+1,1,991,971,Africa,East Africa,510,Tanzania
+4,13,994,983,Asia and the Pacific,South-East Asia,800,Thailand
+4,13,994,983,Asia and the Pacific,South-East Asia,860,Timor-Leste
+1,4,991,974,Africa,West Africa,461,Togo
+2,6,992,976,Latin America and the Caribbean,Caribbean,52,Trinidad and Tobago
+1,5,991,975,Africa,North Africa,616,Tunisia
+6,19,996,989,Europe,South Europe,640,Turkey
+4,10,994,980,Asia and the Pacific,Central Asia,701,Turkmenistan
+1,1,991,971,Africa,East Africa,500,Uganda
+6,17,996,987,Europe,Eastern Europe/post-Soviet Europe,369,Ukraine
+5,15,985,985,Middle East and Iran,Middle East and Iran,696,United Arab Emirates
+6,18,996,988,Europe,North WestEurope,200,United Kingdom
+3,9,979,979,North America,North America,2,United States
+2,8,992,978,Latin America and the Caribbean,South America,165,Uruguay
+4,10,994,980,Asia and the Pacific,Central Asia,704,Uzbekistan
+2,8,992,978,Latin America and the Caribbean,South America,101,Venezuela
+4,13,994,983,Asia and the Pacific,South-East Asia,816,Viet Nam
+5,15,985,985,Middle East and Iran,Middle East and Iran,679,Yemen
+1,3,991,973,Africa,Southern Africa,551,Zambia
+1,3,991,973,Africa,Southern Africa,552,Zimbabwe
