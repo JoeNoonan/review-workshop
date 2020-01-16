@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579186202195.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3756788632",
+    "id" : "E8D74560",
+    "lastKnownWriteTime" : 1579186661,
+    "last_content_update" : 1579186661581,
+    "path" : "C:/IDEA/WORKSHOPS/JAN_REVIEW/WORKSHOP_KEY.R",
+    "project_path" : "WORKSHOP_KEY.R",
+    "properties" : {
+        "cursorPosition" : "439,0",
+        "scrollLine" : "430"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

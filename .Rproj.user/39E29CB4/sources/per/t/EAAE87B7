@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1812977334",
     "id" : "EAAE87B7",
-    "lastKnownWriteTime" : 1579168447,
-    "last_content_update" : 1579168447306,
-    "path" : "C:/IDEA/WORKSHOPS/JAN_REVIEW/WORKSHOP_KEY.R",
-    "project_path" : "WORKSHOP_KEY.R",
+    "lastKnownWriteTime" : 1579186853,
+    "last_content_update" : 1579186853714,
+    "path" : "C:/IDEA/WORKSHOPS/JAN_REVIEW/WORKSHOP_STUDENTS.R",
+    "project_path" : "WORKSHOP_STUDENTS.R",
     "properties" : {
-        "cursorPosition" : "5,3",
-        "scrollLine" : "24"
+        "cursorPosition" : "309,0",
+        "scrollLine" : "300"
     },
     "read_only" : false,
     "read_only_alternatives" : [
