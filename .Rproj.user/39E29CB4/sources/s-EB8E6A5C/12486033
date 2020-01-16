@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579162772188.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "12486033",
+    "lastKnownWriteTime" : 1561979002,
+    "last_content_update" : 1561979002,
+    "path" : "F:/Work Backup/GSODI_V3/initial_data_sheets/initial_data_sheets.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "12,9",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

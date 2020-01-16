@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578991267675.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2771793621",
+    "id" : "6AC360FF",
+    "lastKnownWriteTime" : 1579010487,
+    "last_content_update" : 1579010487318,
+    "path" : "C:/IDEA/WORKSHOPS/JAN_REVIEW/PREP_ANALYSIS/ATRB_PERF/attribute_performance_ranking.R",
+    "project_path" : "attribute_performance_ranking.R",
+    "properties" : {
+        "cursorPosition" : "47,37",
+        "disableDependencyDiscovery" : "1",
+        "scrollLine" : "36"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
